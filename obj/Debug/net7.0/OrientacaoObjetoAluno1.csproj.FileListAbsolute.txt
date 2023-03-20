@@ -1,0 +1,15 @@
+C:\Advanced\OrientacaoObjetoAluno1\bin\Debug\net7.0\OrientacaoObjetoAluno1.exe
+C:\Advanced\OrientacaoObjetoAluno1\bin\Debug\net7.0\OrientacaoObjetoAluno1.deps.json
+C:\Advanced\OrientacaoObjetoAluno1\bin\Debug\net7.0\OrientacaoObjetoAluno1.runtimeconfig.json
+C:\Advanced\OrientacaoObjetoAluno1\bin\Debug\net7.0\OrientacaoObjetoAluno1.dll
+C:\Advanced\OrientacaoObjetoAluno1\bin\Debug\net7.0\OrientacaoObjetoAluno1.pdb
+C:\Advanced\OrientacaoObjetoAluno1\obj\Debug\net7.0\OrientacaoObjetoAluno1.csproj.AssemblyReference.cache
+C:\Advanced\OrientacaoObjetoAluno1\obj\Debug\net7.0\OrientacaoObjetoAluno1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Advanced\OrientacaoObjetoAluno1\obj\Debug\net7.0\OrientacaoObjetoAluno1.AssemblyInfoInputs.cache
+C:\Advanced\OrientacaoObjetoAluno1\obj\Debug\net7.0\OrientacaoObjetoAluno1.AssemblyInfo.cs
+C:\Advanced\OrientacaoObjetoAluno1\obj\Debug\net7.0\OrientacaoObjetoAluno1.csproj.CoreCompileInputs.cache
+C:\Advanced\OrientacaoObjetoAluno1\obj\Debug\net7.0\OrientacaoObjetoAluno1.dll
+C:\Advanced\OrientacaoObjetoAluno1\obj\Debug\net7.0\refint\OrientacaoObjetoAluno1.dll
+C:\Advanced\OrientacaoObjetoAluno1\obj\Debug\net7.0\OrientacaoObjetoAluno1.pdb
+C:\Advanced\OrientacaoObjetoAluno1\obj\Debug\net7.0\OrientacaoObjetoAluno1.genruntimeconfig.cache
+C:\Advanced\OrientacaoObjetoAluno1\obj\Debug\net7.0\ref\OrientacaoObjetoAluno1.dll
